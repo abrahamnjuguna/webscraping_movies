@@ -102,20 +102,4 @@ python3 webscraping_movies.py
    - Saves the processed data into a CSV file (`top_50_films.csv`).
    - Stores the data in a SQLite database (`Movies.db`).
 
-## Requirements File
-
-Below is a sample `requirements.txt` file for installing dependencies:
-
-```
-
-
-```
-
-## Contribution
-
-Feel free to contribute to this project by submitting issues or creating pull requests. For major changes, please discuss them in an issue first.
-
-## License
-
-This project is licensed under the MIT License. See the `LICENSE` file for details.
 
